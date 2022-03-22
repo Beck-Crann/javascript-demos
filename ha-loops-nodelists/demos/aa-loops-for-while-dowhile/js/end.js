@@ -29,3 +29,14 @@ document.querySelector('.output').innerHTML = list;
 }
 
 export default End;
+
+<body>
+	<nav class="navbar navbar-dark bg-dark mb-3">
+    <div class="container w-50">
+			<a id="button" href="#" class="navbar-brand">Friends</a>
+    </div>
+  </nav>
+	<div class="container w-50">
+		<div id="content"></div>
+	</div>
+</body>
